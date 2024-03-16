@@ -11,4 +11,3 @@ for (keys, values) in shopping_list.items():
         i = i + 1
     print(f"Idę do {keys.capitalize()}, kupuję tu następujące rzeczy: {values}")
 print(f"W sumie kupuję {i} produktów.")
-print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
